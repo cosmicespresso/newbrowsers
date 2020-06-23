@@ -23,7 +23,7 @@ function App() {
       
       <section className='text-columns'>
         <div>Browsing environments have followed a very strict interface culture since their first inception. What would some alternatives look like? </div>
-        <div> NEW BROWSERS is a series of interface experiments in reimagining browsing environments using Electron. </div>
+        <div> NEW BROWSERS is a series of interface prototypes that reimagine browsing environments. Built on Electron. </div>
       </section>
 
       <section className='mixed-columns'>
