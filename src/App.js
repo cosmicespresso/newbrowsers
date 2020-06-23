@@ -22,8 +22,8 @@ function App() {
       </section>
       
       <section className='text-columns'>
-        <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tristique senectus et netus et malesuada. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Sed arcu non odio euismod lacinia. Id cursus metus aliquam eleifend mi in nulla. Nascetur ridiculus mus mauris vitae ultricies leo.</div>
-        <div>  </div>
+        <div>Browsing environments have followed a very strict interface culture since their first inception. What would some alternatives look like? </div>
+        <div> NEW BROWSERS is a series of interface experiments in reimagining browsing environments using Electron. </div>
       </section>
 
       <section className='mixed-columns'>
