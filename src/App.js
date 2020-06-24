@@ -4,7 +4,7 @@ import './App.css';
 
 function twitterShare() {
   const text = 'An exploration of different browsing interfaces made by @kallirroi';
-  const url = 'http://newbrowsers.now.sh/'
+  const url = 'https://newbrowsers.vercel.app/'
   return `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
 }
 
